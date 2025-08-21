@@ -1,5 +1,5 @@
 # ⏾ Platon Supranovich
-- 🎓 Computer Science Student at the [University of Massachuetts Lowell](https://www.uml.edu/)
+- 🎓 Computer Science Student at the [University of Massachusetts Lowell](https://www.uml.edu/)
 - 🌐 Interested in Full-Stack Development and Software Engineering
 
 ## 💻 Tech Stack:
@@ -21,7 +21,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=psupra22&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![Platon's GitHub stats](https://github-readme-stats.vercel.app/api?username=psupra22&theme=dark&show_icons=true&show=discussions_answered,prs_merged&hide=prs)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/platonsupranovich) 
