@@ -20,9 +20,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## 📊 GitHub Stats:
-![Platon's GitHub stats](https://github-readme-stats.vercel.app/api?username=psupra22&theme=dark&show_icons=true&show=discussions_answered,prs_merged&hide=prs&cache_seconds=1800)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/platonsupranovich) 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psupra521@gmail.com) 
